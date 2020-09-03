@@ -362,7 +362,7 @@ def ShowMenu(menu_items, key, showall=False):
 
 def WIP():
 	os.system('cls')
-	print('This is still under Construction! Please Be Fucking Patient!')
+	print('This is still under Construction! Please Be Patient!')
 
 def Exit():
 	print('Special Thanks to Riffautae, from the Python Discord, for all the help in simplifying the code.\nIf you see him around tell him Thank You if you like this project.')
